@@ -1,0 +1,55 @@
+.Join {
+    display: flex;
+    padding: 0 2rem;
+    gap: 10rem;
+}
+
+.Left__j {
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: relative;
+}
+
+.Left__j>hr {
+    width: 10.5rem;
+    position: absolute;
+    border: 2px solid var(--orange);
+    border-radius: 20%;
+    margin: -10px 0px;
+}
+
+.Left__j>div {
+    display: flex;
+    gap: 1rem;
+}
+
+.Right__j {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.join__form {
+    display: flex;
+    gap: 3rem;
+    background-color: gray;
+    padding: 1rem;
+}
+
+.join__form>input {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: var(--lightgrayz);
+}
+
+::placeholder {
+    color: var(--lightgray);
+}
+
+.btn_j {
+    background-color: var(--orange);
+    color: white;
+}

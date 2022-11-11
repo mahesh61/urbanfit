@@ -1,0 +1,32 @@
+.footer {
+    position: relative;
+}
+
+.footer>hr {
+    border: 1px solid var(--lightgray);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 2rem;
+    gap: 4rem;
+    align-items: center;
+    justify-content: center;
+    height: 20rem;
+}
+
+.social__icons {
+    display: flex;
+    gap: 3rem;
+}
+
+.social__icons>img {
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+}
+
+.logo__UBFT>img {
+    width: 10rem;
+}
