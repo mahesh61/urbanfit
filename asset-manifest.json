@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/urbanfit/static/css/main.0ffc7aeb.css",
+    "main.js": "/urbanfit/static/js/main.1f685da3.js",
+    "static/js/787.0c8ec5a2.chunk.js": "/urbanfit/static/js/787.0c8ec5a2.chunk.js",
+    "static/media/hero.png": "/urbanfit/static/media/hero.e19ac0c6b1009c7280f5.png",
+    "static/media/img1.png": "/urbanfit/static/media/img1.c16c2c261034cf78ee57.png",
+    "static/media/1.png": "/urbanfit/static/media/1.1091417d32e491f0bbb6.png",
+    "static/media/2.png": "/urbanfit/static/media/2.82da8b2725df896d8a8e.png",
+    "static/media/img3.jpg": "/urbanfit/static/media/img3.3894413f7bf2b4f1fc54.jpg",
+    "static/media/3.png": "/urbanfit/static/media/3.69484cb0ee7687a8c28b.png",
+    "static/media/4.png": "/urbanfit/static/media/4.2c0d30b9ce1579eb1109.png",
+    "static/media/UrbanFitLogo.png": "/urbanfit/static/media/UrbanFitLogo.4983028a478abeb827d1.png",
+    "static/media/img2.jpg": "/urbanfit/static/media/img2.f5d2e52e514c544dfffb.jpg",
+    "static/media/back.png": "/urbanfit/static/media/back.9f54bfba33048f4ca688.png",
+    "index.html": "/urbanfit/index.html",
+    "main.0ffc7aeb.css.map": "/urbanfit/static/css/main.0ffc7aeb.css.map",
+    "main.1f685da3.js.map": "/urbanfit/static/js/main.1f685da3.js.map",
+    "787.0c8ec5a2.chunk.js.map": "/urbanfit/static/js/787.0c8ec5a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ffc7aeb.css",
+    "static/js/main.1f685da3.js"
+  ]
+}
